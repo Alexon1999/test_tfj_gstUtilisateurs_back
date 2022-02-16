@@ -4,5 +4,5 @@
 ## Packager l'Application
 `````./mvnw clean package -DskipTests`````
 
-## Executér le jar
+## Exécuter le jar
 ```java -jar target/GestionUtilisateurs-0.0.1-SNAPSHOT.jar```
