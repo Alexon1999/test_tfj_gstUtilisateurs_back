@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
 
-// partie logique métier
+// partie logique métier (Business Logic)
 // Service Layer
 
 @Service
